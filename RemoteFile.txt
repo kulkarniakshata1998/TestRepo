@@ -1,3 +1,5 @@
-Change1 – First commit on remote repositpry .
+﻿Change1 – First commit on remote repositpry .
 
 Change2 - Second commit on remote repository.
+
+Change3 - Commit on local repository.
